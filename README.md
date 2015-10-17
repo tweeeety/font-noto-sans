@@ -1,6 +1,9 @@
 # font-noto-sans
 font `Noto Sans` or `Source Han Sans`
 
+donwload for  
+http://www.google.com/get/noto/#sans-jpan
+
 # dir and file
 >
 * NotoSansCJKjp-hinted
